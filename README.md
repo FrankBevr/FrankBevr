@@ -1,4 +1,5 @@
 #### Hola,
+
 I'm Frank ✌️
 
 🔭 I’m working on [Polkadot](https://polkadot.network/)
@@ -7,6 +8,9 @@ I'm Frank ✌️
 
 #### Best regards,  
 [kiss](https://en.wikipedia.org/wiki/KISS_principle)
+
+---
+E-mail `frank_dierolf@web.de` ▪️ Telegram `@FrankBevr` ▪️  Discord `FrankBevr#9593`
 
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) 
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js) 

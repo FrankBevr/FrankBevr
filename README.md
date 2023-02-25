@@ -1,13 +1,16 @@
-### Hi there 👋
+#### Hola,
+I'm Frank ✌️
 
-<!-- **FrankBevr/FrankBevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+🔭 I’m working on [Polkadot](https://polkadot.network/)
 
-<!-- Here are some ideas to get you started: -->
+:shirt: I do Shirts, alias *Building a [Web3](https://en.wikipedia.org/wiki/Web3) - [AR](https://en.wikipedia.org/wiki/WebAR) Shop.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+💻 
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) 
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js) 
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender) ▪️
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=flat-square)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity&style=flat-square)
+
+#### Best regards,  
+[kiss](https://en.wikipedia.org/wiki/KISS_principle)

@@ -1,12 +1,12 @@
-#### Hola,
+**Hello everyone,**
 
-I'm Frank ✌️
+ ✌️ I'm Frank 
 
 🔭 I’m working on [Polkadot](https://polkadot.network/)
 
-:shirt: I do Shirts, alias *Building a [Web3](https://en.wikipedia.org/wiki/Web3) - [AR](https://en.wikipedia.org/wiki/WebAR) Shop.*
+:shirt: I do Shirts ▪️  *Building a [Web3](https://en.wikipedia.org/wiki/Web3) - [AR](https://en.wikipedia.org/wiki/WebAR) Shop.*
 
-#### Best regards,  
+**Best regards,**  
 [kiss](https://en.wikipedia.org/wiki/KISS_principle)
 
 ---

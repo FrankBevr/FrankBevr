@@ -7,7 +7,7 @@
 :shirt: I do Shirts ▪️  *Building a [Web3](https://en.wikipedia.org/wiki/Web3) - [AR](https://en.wikipedia.org/wiki/WebAR) Shop.*
 
 **Best regards,**  
-[kiss](https://en.wikipedia.org/wiki/KISS_principle)
+[Frank](https://en.wikipedia.org/wiki/KISS_principle)
 
 ---
 E-mail `frank_dierolf@web.de` ▪️ Telegram `@FrankBevr` ▪️  Discord `FrankBevr#9593`

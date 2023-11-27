@@ -12,7 +12,7 @@
 ---
 E-mail `frank_dierolf@web.de` ▪️ Telegram `@FrankBevr` ▪️  Discord `FrankBevr`
 
-![UI/Ux](https://img.shields.io/badge/-Figma-000?&logo=Figma) 
-![3D](https://img.shields.io/badge/-Blender-000?&logo=Blender) ▪️ 
-![Front-, Backend](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=flat-square)
-![Smart Contract](https://img.shields.io/badge/-Rust-000?&logo=Rust&style=flat-square)
+![UI/Ux](https://img.shields.io/badge/-Ui\/Ux-000?&logo=Figma) 
+![Front, Backend](https://img.shields.io/badge/Fullstack-black?style=flat-square&logo=Typescript) 
+![Smart Contract](https://img.shields.io/badge/-Contracts-000?&logo=Rust&style=flat-square) 
+![3D](https://img.shields.io/badge/-3D-000?&logo=Blender)
